@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageServer.Web", "ImageServer.Web\ImageServer.Web.csproj", "{566B9572-8FD1-4E62-B9D5-0F7CD0E33DC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageServer.Common", "ImageServer.Common\ImageServer.Common.csproj", "{AC512CE0-EAC9-4008-8EE3-5BCA4D8947C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageServer.ImageLoaders", "ImageServer.ImageLoaders\ImageServer.ImageLoaders.csproj", "{4EE132B8-C40C-468E-93C5-CEAFFC001D3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{566B9572-8FD1-4E62-B9D5-0F7CD0E33DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566B9572-8FD1-4E62-B9D5-0F7CD0E33DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566B9572-8FD1-4E62-B9D5-0F7CD0E33DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566B9572-8FD1-4E62-B9D5-0F7CD0E33DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC512CE0-EAC9-4008-8EE3-5BCA4D8947C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC512CE0-EAC9-4008-8EE3-5BCA4D8947C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC512CE0-EAC9-4008-8EE3-5BCA4D8947C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC512CE0-EAC9-4008-8EE3-5BCA4D8947C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EE132B8-C40C-468E-93C5-CEAFFC001D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE132B8-C40C-468E-93C5-CEAFFC001D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE132B8-C40C-468E-93C5-CEAFFC001D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE132B8-C40C-468E-93C5-CEAFFC001D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
