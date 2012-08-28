@@ -1,1 +1,1 @@
-﻿<%@ WebHandler Language="C#" Class="ImageServer.UI.ZoomHandler, ImageServer.Lib" %>
+﻿<%@ WebHandler Language="C#" Class="ImageServer.UI.ZoomHandler, ImageServer.Common" %>
