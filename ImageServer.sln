@@ -8,6 +8,21 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageServer.ImageLoaders", "ImageServer.ImageLoaders\ImageServer.ImageLoaders.csproj", "{4EE132B8-C40C-468E-93C5-CEAFFC001D3C}"
 EndProject
 Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs09
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ImageServer.Common\\ImageServer.Common.csproj
+		SccProjectName1 = ImageServer.Common
+		SccLocalPath1 = ImageServer.Common
+		SccProjectUniqueName2 = ImageServer.ImageLoaders\\ImageServer.ImageLoaders.csproj
+		SccProjectName2 = ImageServer.ImageLoaders
+		SccLocalPath2 = ImageServer.ImageLoaders
+		SccProjectUniqueName3 = ImageServer.Web\\ImageServer.Web.csproj
+		SccProjectName3 = ImageServer.Web
+		SccLocalPath3 = ImageServer.Web
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
