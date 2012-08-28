@@ -4,7 +4,7 @@ using MongoDB.Driver;
 using MongoDB.Driver.GridFS;
 using ImageServer.Common;
 
-namespace ImageLoaders
+namespace ImageServer.ImageLoaders
 {
     public class GridFSImageLoader : IImageLoader
     {

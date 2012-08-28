@@ -3,7 +3,7 @@ using System.Configuration;
 using System.IO;
 using ImageServer.Common;
 
-namespace ImageLoaders
+namespace ImageServer.ImageLoader
 {
     public class NasImageLoader : IImageLoader
     {
